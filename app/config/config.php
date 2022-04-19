@@ -4,7 +4,7 @@
     //URL Root
     define('URLROOT', 'http://localhost/PFR');
     //Site Name
-    define('SITENAME', 'PFR');
+    define('SITENAME', 'MobiShop | الموقع');
     //App Version
     define('APPVERSION', '0.2.0');
 
