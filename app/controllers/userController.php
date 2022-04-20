@@ -12,5 +12,8 @@
             $this->view('user/login');
         }
 
-        
+        public function signup()
+        {
+            $this->view('user/signup');
+        }
     }

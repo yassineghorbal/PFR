@@ -1,10 +1,33 @@
 #login_form{
     width: 30%;
-    margin: 0 auto;
-    align-items: center;
+    margin: 3em auto;
 }
 
-#login_container{
-    display: flex;
+#footer{
     justify-content: center;
+    gap: 3em;
+    margin-top: 2em;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#footer_center > h6:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#social_media{
+    width: 10%;
+    height: 2em;
+    margin: auto;
+}
+
+#social_media:hover{
+    cursor: pointer;
+}
+
+#copyright{
+    width: 30%;
+    margin: auto;
+    margin-bottom: 3em;
 }

@@ -22,14 +22,14 @@
 #all_products{
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 3em;
+    
 }
 
 
 #features{
     justify-content: center;
     gap: 3em;
-    margin-bottom: 5em;
+    margin: 5em auto;
     display: flex;
     flex-wrap: wrap;
 }
