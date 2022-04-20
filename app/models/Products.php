@@ -1,6 +1,6 @@
 <?php
 
-    class Home {
+    class Products {
 
         private $db;
 
