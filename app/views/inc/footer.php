@@ -1,5 +1,5 @@
 <hr style="width:100%;text-align:left;margin-left:0">
-<div id="footer" class="container d-flex">
+<div id="footer" class="container">
     <div class="mb-5">
         <h3>MobiShop</h3>   
         <h5 class="my-2">

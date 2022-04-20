@@ -1,28 +1,8 @@
 <?php require APPROOT . "/views/inc/header.php"; ?>
 
-<div class="container">
-<nav class="navbar navbar-expand-lg navbar-light bg-white">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">MobiShop</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-       <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-</nav>
+ 
 
-</div>  
-
-<!-- carousel -->
+<!-- carousel
 <div id="carouselExampleControls" class="carousel slide bg-dark" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div id="carousel" class="carousel-item active">
@@ -30,10 +10,15 @@
             <h4 class="text-white">Samsung Galaxy S22 Ultra</h4>
             <button type="button" class="btn btn-outline-secondary">Buy now!</button>
         </div>
-        <img id="carousel_img" src="<?php echo URLROOT; ?>/pics/samsung-galaxy-s22-ultra-frandroid-2022-officiel.webp"alt="...">
+        <img id="carousel_img" src="<?php echo URLROOT; ?>/pics/samsung-galaxy-s22-ultra-frandroid-2022-officiel.webp" alt="...">
     </div>
 
-    
+    <div class="carousel-item">
+      <img class="d-block w-100"  src="..." alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Third slide">
+    </div>
 
     
 
@@ -46,14 +31,14 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
-</div>
+</div> -->
 
 <!-- most sold -->
 <div class="container">
     <h3 class="mx-5 mt-5">Most Sold</h3>
 </div>
-<div id="most_sold" class="container d-flex">
-<!-- 1 --> 
+<div id="most_sold" class="container">
+    <!-- 1 --> 
     <div class="m-1">
         <div class="card" style="width: 14rem;">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
@@ -138,7 +123,7 @@
 </div>
 
 <div>
-<div id="all_products" class="container d-flex mb-5">
+<div id="all_products" class="container mb-5">
 <!-- 1 --> 
     <div class="m-1">
         <div class="card" style="width: 14rem;">
@@ -208,7 +193,7 @@
 </div>
 
 <!-- features -->
-<div id="features" class="container d-flex">
+<div id="features" class="container">
     <div class="border d-flex p-2">
     <div class="m-3">
     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-truck" viewBox="0 0 16 16">
