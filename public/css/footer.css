@@ -1,23 +1,18 @@
-#login_form{
-    width: 30%;
-    margin: 3em auto;
-}
-
-#redirect_link{
-    margin: 1em 0;
-}
-
-#footer{
-    justify-content: center;
-    gap: 10em;
-    margin-top: 2em;
+.footer{
     display: flex;
+    justify-content: space-between;
+    margin-top: 2em;
     flex-wrap: wrap;
 }
 
 #footer_center > h6:hover{
+    color: blue;
     cursor: pointer;
     text-decoration: underline;
+}
+
+#footer_center{
+    margin-bottom: 1em;
 }
 
 #social_media{

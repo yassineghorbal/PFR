@@ -1,19 +1,19 @@
 <hr style="width:100%;text-align:left;margin-left:0">
-<div id="footer" class="container">
+<div class="container footer">
     <div class="mb-5">
-        <h3>MobiShop</h3>   
-        <h5 class="my-2">
+        <h4>MobiShop</h4>   
+        <h6 class="my-2">
         Adress: 
         <small class="text-muted">Example street, New York, USA</small>
 
-        <h5 class="my-2">
+        <h6 class="my-2">
         Phone: 
         <small class="text-muted">00000000</small>
 
-        <h5 class="my-2">
+        <h6 class="my-2">
         Email: 
         <small class="text-muted">example@gmail.com</small>
-    </h5>
+    </h6>
     </div>
 
     <div id="footer_center">

@@ -1,15 +1,27 @@
-#login_form{
+#signup_form{
     width: 30%;
     margin: 3em auto;
+}
+
+span{
+    color: red;
 }
 
 #redirect_link{
     margin: 1em 0;
 }
 
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+
 #footer{
     justify-content: center;
-    gap: 10em;
+    gap: 3em;
     margin-top: 2em;
     display: flex;
     flex-wrap: wrap;

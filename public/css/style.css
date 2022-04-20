@@ -1,10 +1,24 @@
-#add_to_cart{
+.add_to_cart{
+    display: block;
     text-decoration: none;
-    color: black;
-    background: #DBFF00;
-    padding: 10px;
-    border-radius: 10px;
-    border: 1px solid red;
+    font-size: 0.8em;
+    font-weight: 500;
+    color: white;
+    background-color: #363062;
+    padding: 10px 16px;
+    border-radius: 4px;
+    transition: 230ms;
+}
+
+.add_to_cart:hover{
+    transform: scale(1.04);
+    background-color: #5b437c;
+    color: white;
+}
+
+.card{
+    border:1px solid #827397;
+    border-radius: 4px;
 }
 
 #search_bar{
@@ -15,16 +29,14 @@
     margin-bottom: 3em;
     display: flex;
     flex-wrap: wrap;
-    /* justify-content: center; */
+    justify-content: space-between;
 }
-
 
 #all_products{
     display: flex;
     flex-wrap: wrap;
-    
+    justify-content: space-between;
 }
-
 
 #features{
     justify-content: center;

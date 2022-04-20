@@ -9,8 +9,14 @@
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" 
     crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="<?php echo URLROOT; ?>/css/login.css">
+
+    <link rel="stylesheet" href="<?php echo URLROOT; ?>/css/footer.css">
+    
+    <link rel="stylesheet" href="<?php echo URLROOT; ?>/css/signup.css">
     <title><?php echo SITENAME ?></title>
- 
+</head>
+<body>
 
 <!-- Content -->
 

@@ -15,7 +15,7 @@
         {
             $url = $_GET['url'];
 
-            if(!empty($url) && isset($_GET['url']))
+            if(!empty($url) && isset($url))
             {
                 $url = trim($url,"/");
                 $url = explode("/",$url);
@@ -44,11 +44,11 @@
                 {
                     call_user_func_array([$controller, $this->method], $this->parameters);
                 }else{
-                    echo "Error 404 .1";
+                    require_once '../app/views/error404.php';
                 }
 
             }else{
-                echo "Error 404 .2";
+                require_once '../app/views/error404.php';
             }
         }
     }
