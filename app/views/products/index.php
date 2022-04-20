@@ -3,23 +3,24 @@
 
 
 
-<!-- carousel
+<!-- carousel -->
 <div id="carouselExampleControls" class="carousel slide bg-dark" data-bs-ride="carousel">
   <div class="carousel-inner">
-    <div id="carousel" class="carousel-item active">
-        <div class="w-25" id="first_carousel">
+    <div id="carousel_1" class="carousel-item active">
+        <div id="first_carousel">
             <h4 class="text-white">Samsung Galaxy S22 Ultra</h4>
             <button type="button" class="btn btn-outline-secondary">Buy now!</button>
         </div>
-        <img id="carousel_img" src="<?php echo URLROOT; ?>/pics/samsung-galaxy-s22-ultra-frandroid-2022-officiel.webp" alt="...">
+        <img class="d-inline w-25"  src="<?php echo URLROOT; ?>/pics/samsung-galaxy-s22-ultra-frandroid-2022-officiel.webp" alt="first slide">
+        
     </div>
 
-    <div class="carousel-item">
+    <!-- <div class="carousel-item">
       <img class="d-block w-100"  src="..." alt="Second slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="..." alt="Third slide">
-    </div>
+    </div> -->
 
     
 
@@ -32,29 +33,7 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
-</div> -->
-
-<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="..." class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-    </div>
-    <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-    </div>
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
+</div> 
 
 <!-- most sold -->
 <div class="container">

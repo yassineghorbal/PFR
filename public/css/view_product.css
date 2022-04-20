@@ -1,3 +1,55 @@
 .add_to_cart_btn{
-    width: 2em;
+    display: block;
+    text-decoration: none;
+    font-size: 0.8em;
+    font-weight: 500;
+    color: white;
+    background-color: #363062;
+    padding: 10px 16px;
+    border-radius: 4px;
+    transition: 230ms;
+    width: 30%;
+}
+
+.add_to_cart_btn:hover{
+    transform: scale(1.04);
+    background-color: #5b437c;
+    color: white;
+}
+
+.add_to_wishlist_btn{
+    display: block;
+    text-decoration: none;
+    font-size: 0.8em;
+    font-weight: 500;
+    color: white;
+    background-color: #069A8E;
+    padding: 10px 16px;
+    border-radius: 4px;
+    transition: 230ms;
+    width: 30%;
+}
+
+.add_to_wishlist_btn:hover{
+    transform: scale(1.04);
+    background-color: #57d3bf;
+    color: white;
+}
+
+.container_2{
+    /* border: 1px solid red; */
+    width: 70%;
+    position: static;
+}
+
+.visa{
+    height: 50px;
+}
+
+.mc{
+    height: 25px;
+}
+
+@media screen and (max-width: 768px) {
+    
 }

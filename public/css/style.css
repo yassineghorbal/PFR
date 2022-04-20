@@ -80,16 +80,20 @@ h3{
     margin-bottom: 3em;
 }
 
-/* #carousel_1{
+#carousel_1{
     display: flex;
     align-items: center;
     justify-content: center;
-} */
+}
 
 #first_carousel{
-    width: 40%;
+    width: 25%;
 }
 
 #carousel_img{
     width: 30%;
+}
+
+.nav-link:hover{
+    border-bottom: 3px solid gray;
 }
