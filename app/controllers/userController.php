@@ -17,4 +17,9 @@
         {
             $this->view('user/signup');
         }
+
+        public function cart()
+        {
+            $this->view('user/cart');
+        }
     }

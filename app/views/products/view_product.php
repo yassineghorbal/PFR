@@ -51,7 +51,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> Add to cart</a>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a>
         </div>
         </div>
     </div>
@@ -64,7 +64,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> Add to cart</a>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a>
         </div>
         </div>
     </div>
@@ -77,7 +77,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> Add to cart</a>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a>
         </div>
         </div>
     </div>
@@ -90,7 +90,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> Add to cart</a>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a>
         </div>
         </div>
     </div>
