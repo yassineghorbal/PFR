@@ -10,6 +10,7 @@
 
         public function login()
         {
+            
             $this->view('user/login');
         }
 

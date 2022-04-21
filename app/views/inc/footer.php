@@ -1,4 +1,4 @@
-<hr style="width:100%;text-align:left;margin-left:0">
+<!-- <hr style="width:100%;text-align:left;margin-left:0"> -->
 <div class="container footer">
     <div class="mb-5">
         <h4>MobiShop</h4>   
@@ -36,7 +36,7 @@
     </div>
 
 </div>
-<div >
+<div class='socialMedia'>
     <div id="social_media">
     <i class="bi bi-facebook h4"></i>
 

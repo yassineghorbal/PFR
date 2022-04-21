@@ -49,7 +49,8 @@
             <p class="card-text">price</p>
         </div>
             <div class="card-body mx-auto">
-                <a href="http://localhost/PFR/products/view_product" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star h4"></i>
+                <a href="http://localhost/PFR/products/view_product" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a>
+                <a href="http://localhost/PFR/user/wishlist"><i class="bi bi-star h4"></i></a>
             </div>
         </div>
     </div>
