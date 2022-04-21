@@ -13,7 +13,7 @@
     
     <div class="container_2">
         <div class="card-body">
-            <a href="#" class="card-link add_to_cart_btn"><i class="bi bi-cart"></i> Add to cart</a>
+            <a href="http://localhost/PFR/user/cart" class="card-link add_to_cart_btn"><i class="bi bi-cart"></i> Add to cart</a>
         </div>
         <div class="card-body">
             <a href="#" class="card-link add_to_wishlist_btn"><i class="bi bi-cart"></i> Add to Wishlist</a>

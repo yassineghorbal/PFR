@@ -1,5 +1,5 @@
 .add_to_cart{
-    display: block;
+    display: inline;
     text-decoration: none;
     font-size: 0.8em;
     font-weight: 500;
@@ -94,6 +94,7 @@ h3{
     width: 30%;
 }
 
-.nav-link:hover{
-    border-bottom: 2px solid gray;
+
+.add_to_wishlist{
+    display: inline;
 }

@@ -22,4 +22,9 @@
         {
             $this->view('user/cart');
         }
+
+        public function wishlist()
+        {
+            $this->view('user/wishlist');
+        }
     }
