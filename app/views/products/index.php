@@ -37,7 +37,7 @@
 
 <!-- most sold -->
 <div class="container">
-    <h3 class="mx-5 mt-5">Most Sold</h3>
+    <h3 class="mx-5 mt-5">Best Sellers</h3>
 </div>
 <div id="most_sold" class="container">
     <!-- 1 --> 
