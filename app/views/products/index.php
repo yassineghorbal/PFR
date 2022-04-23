@@ -41,6 +41,10 @@
 </div>
 <div id="most_sold" class="container">
     <!-- 1 --> 
+
+    <!-- <i class="bi bi-bookmark-x-fill"></i> remove from wishlist to use later 
+    with php [if add_to_wishlist isset()]    -->
+
     <div class="m-1">
         <div class="card">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
