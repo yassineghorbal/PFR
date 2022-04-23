@@ -50,7 +50,7 @@
         </div>
             <div class="card-body mx-auto">
                 <a href="http://localhost/MobiShop/products/view_product" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a>
-                <a href="http://localhost/MobiShop/user/wishlist"><i class="bi bi-star h4"></i></a>
+                <a href="http://localhost/MobiShop/user/wishlist"><i class="bi bi-bookmark-check-fill h4"></i></a>
             </div>
         </div>
     </div>
@@ -63,7 +63,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star h4"></i>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-bookmark-check-fill h4"></i>
         </div>
         </div>
     </div>
@@ -76,7 +76,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star add_to_wishlist"></i>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-bookmark-check-fill h4"></i>
         </div>
         </div>
     </div>
@@ -89,7 +89,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star h4"></i>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-bookmark-check-fill h4"></i>
         </div>
         </div>
     </div>
@@ -102,7 +102,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star h4"></i>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-bookmark-check-fill h4"></i>
         </div>
         </div>
     </div>
@@ -131,7 +131,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="http://localhost/MobiShop/products/view_product" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star h4"></i>
+            <a href="http://localhost/MobiShop/products/view_product" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-bookmark-check-fill h4"></i>
         </div>
         </div>
     </div>
@@ -144,7 +144,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star h4"></i>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-bookmark-check-fill h4"></i>
         </div>
         </div>
     </div>
@@ -157,7 +157,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star h4"></i>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-bookmark-check-fill h4"></i>
         </div>
         </div>
     </div>
@@ -170,7 +170,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star h4"></i>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-bookmark-check-fill h4"></i>
         </div>
         </div>
     </div>
@@ -183,7 +183,7 @@
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star h4"></i>
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-bookmark-check-fill h4"></i>
         </div>
         </div>
     </div>
