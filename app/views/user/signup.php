@@ -31,7 +31,7 @@
         </div>
         <button type="submit" class="btn btn-primary w-100">Submit</button>
         <div id="redirect_link">
-            already a member? <a href="http://localhost/PFR/user/login">Log in</a>
+            already a member? <a href="http://localhost/Mobishop/user/login">Log in</a>
         </div>
     </form>
 </div>

@@ -10,7 +10,7 @@
             </div>
         </div>
     </div>
-    
+
     <div class="container_2">
         <div class="card-body">
             <a href="http://localhost/PFR/user/cart" class="card-link add_to_cart_btn"><i class="bi bi-cart"></i> Add to cart</a>

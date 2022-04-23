@@ -42,21 +42,21 @@
 <div id="most_sold" class="container">
     <!-- 1 --> 
     <div class="m-1">
-        <div class="card" style="width: 14rem;">
+        <div class="card">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
         <div class="card-body mx-auto">
             <h5 class="card-title">Product name</h5>
             <p class="card-text">price</p>
         </div>
             <div class="card-body mx-auto">
-                <a href="http://localhost/PFR/products/view_product" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a>
-                <a href="http://localhost/PFR/user/wishlist"><i class="bi bi-star h4"></i></a>
+                <a href="http://localhost/MobiShop/products/view_product" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a>
+                <a href="http://localhost/MobiShop/user/wishlist"><i class="bi bi-star h4"></i></a>
             </div>
         </div>
     </div>
 <!-- 2 -->
     <div class="m-1">
-        <div class="card" style="width: 14rem;">
+        <div class="card">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
         <div class="card-body mx-auto">
             <h5 class="card-title">Product name</h5>
@@ -69,7 +69,7 @@
     </div>
 <!-- 3 -->
     <div class="m-1">
-        <div class="card" style="width: 14rem;">
+        <div class="card">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
         <div class="card-body mx-auto">
             <h5 class="card-title">Product name</h5>
@@ -82,7 +82,7 @@
     </div>
     <!-- 4 -->
     <div class="m-1">
-        <div class="card" style="width: 14rem;">
+        <div class="card">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
         <div class="card-body mx-auto">
             <h5 class="card-title">Product name</h5>
@@ -95,7 +95,7 @@
     </div>
     <!-- 5 -->
     <div class="m-1">
-        <div class="card" style="width: 14rem;">
+        <div class="card">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
         <div class="card-body mx-auto">
             <h5 class="card-title">Product name</h5>
@@ -124,20 +124,20 @@
 <div id="all_products" class="container mb-5">
 <!-- 1 --> 
     <div class="m-1">
-        <div class="card" style="width: 14rem;">
+        <div class="card">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
         <div class="card-body mx-auto">
             <h5 class="card-title">Product name</h5>
             <p class="card-text">price</p>
         </div>
         <div class="card-body mx-auto">
-            <a href="http://localhost/PFR/products/view_product" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star h4"></i>
+            <a href="http://localhost/MobiShop/products/view_product" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a> <i class="bi bi-star h4"></i>
         </div>
         </div>
     </div>
 <!-- 2 -->
     <div class="m-1">
-        <div class="card" style="width: 14rem;">
+        <div class="card">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
         <div class="card-body mx-auto">
             <h5 class="card-title">Product name</h5>
@@ -150,7 +150,7 @@
     </div>
 <!-- 3 -->
     <div class="m-1">
-        <div class="card" style="width: 14rem;">
+        <div class="card">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
         <div class="card-body mx-auto">
             <h5 class="card-title">Product name</h5>
@@ -163,7 +163,7 @@
     </div>
     <!-- 4 -->
     <div class="m-1">
-        <div class="card" style="width: 14rem;">
+        <div class="card">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
         <div class="card-body mx-auto">
             <h5 class="card-title">Product name</h5>
@@ -176,7 +176,7 @@
     </div>
     <!-- 5 -->
     <div class="m-1">
-        <div class="card" style="width: 14rem;">
+        <div class="card">
         <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
         <div class="card-body mx-auto">
             <h5 class="card-title">Product name</h5>

@@ -16,7 +16,7 @@
     
     <button type="submit" class="btn btn-primary w-100">Submit</button>
     <div id="redirect_link">
-        not a member yet? <a href="http://localhost/PFR/user/signup">Sign up</a>
+        not a member yet? <a href="http://localhost/MobiShop/user/signup">Sign up</a>
     </div>
     </form>
 </div>

@@ -22,20 +22,20 @@
 <div class="container">
 <nav class="navbar navbar-expand-lg navbar-light bg-white">
   <div class="container-fluid">
-    <a class="navbar-brand h1" href="http://localhost/PFR/products/">MobiShop</a>
+    <a class="navbar-brand h1" href="http://localhost/MobiShop/products/">MobiShop</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
        <ul class="navbar-nav ms-auto mb-2 mb-lg-0 ">
         <li class="nav-item h6">
-          <a class="nav-link nav_link" aria-current="page" href="http://localhost/PFR/user/cart"><i class="bi bi-cart-fill"></i> Cart</a>
+          <a class="nav-link nav_link" href="http://localhost/MobiShop/user/cart"><i class="bi bi-cart-fill"></i> Cart</a>
         </li>
         <li class="nav-item h6">
-          <a class="nav-link nav_link" aria-current="page" href="http://localhost/PFR/user/wishlist"><i class="bi bi-bookmark-heart-fill"></i> Wishlist</a>
+          <a class="nav-link nav_link" href="http://localhost/MobiShop/user/wishlist"><i class="bi bi-bookmark-heart-fill"></i> Wishlist</a>
         </li>
         <li class="nav-item h6">
-          <a class="nav-link nav_link" href="#"><i class="bi bi-person-fill"></i> Profile</a>
+          <a class="nav-link nav_link" href="http://localhost/MobiShop/user/profile"><i class="bi bi-person-fill"></i> Profile</a>
         </li>
       </ul>
     </div>

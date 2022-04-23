@@ -2,7 +2,7 @@
     //App Root
     define('APPROOT', dirname(dirname(__FILE__)));
     //URL Root
-    define('URLROOT', 'http://localhost/PFR');
+    define('URLROOT', 'http://localhost/MobiShop');
     //Site Name
     define('SITENAME', 'MobiShop | الموقع');
     //App Version

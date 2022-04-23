@@ -28,4 +28,9 @@
         {
             $this->view('user/wishlist');
         }
+
+        public function profile()
+        {
+            $this->view('user/profile');
+        }
     }
