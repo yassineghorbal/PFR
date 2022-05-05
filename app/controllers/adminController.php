@@ -11,4 +11,19 @@
         {
             $this->view('admin/home');
         }
+
+        public function orders()  
+        {
+            $this->view('admin/orders');
+        }
+
+        public function products()
+        {
+            $this->view('admin/products');
+        }
+
+        public function customers()
+        {
+            $this->view('admin/customers');
+        }
     }

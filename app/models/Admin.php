@@ -8,6 +8,4 @@
         {
             $this->db = new Database;
         }
-        
-        
     }

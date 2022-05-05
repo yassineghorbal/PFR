@@ -52,7 +52,7 @@
             </div>
         </div>
         <div class="col py-3">
-            Admin Home Page 🚀
+            Products Page 🚀
         </div>
     </div>
 </div>
