@@ -26,4 +26,9 @@
         {
             $this->view('admin/customers');
         }
+
+        public function login()
+        {
+            $this->view('admin/login');
+        }
     }

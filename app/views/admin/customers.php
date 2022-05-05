@@ -46,7 +46,7 @@
                     </a>
                     <ul class="dropdown-menu dropdown-menu-dark text-small shadow">
                         
-                        <li><a class="dropdown-item" href="#">Sign out</a></li>
+                        <li><a class="dropdown-item" href="http://localhost/MobiShop/admin/login">Sign out</a></li>
                     </ul>
                 </div>
             </div>
