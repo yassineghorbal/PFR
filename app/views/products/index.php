@@ -115,12 +115,19 @@
 <!-- all products -->
 <div class="container d-flex">
     <h3 class="mx-5 mt-5">All products</h3>
-    <div id="search_bar" class="input-group m-5 w-50">
+    <div id="search_bar" class="input-group m-5">
         <span class="input-group-text" id="basic-addon1">
             <i class="bi bi-search"></i>
         </span>
         <input type="text" class="form-control" placeholder="what are you looking for?" aria-label="search" aria-describedby="basic-addon1">
         <button type="button" class="btn btn-primary">Search</button>
+    </div>
+    
+    <!-- price filter -->
+    <div id="search_bar" class="input-group m-5 w-25">
+        <input type="number" class="form-control" placeholder="Minimum" aria-label="Minimum Price" aria-describedby="button-addon2">
+        <input type="number" class="form-control" placeholder="Maximum" aria-label="Maximum Price" aria-describedby="button-addon2">
+        <button class="btn btn-outline-primary" type="button">Filter</button>
     </div>
 </div>
 
