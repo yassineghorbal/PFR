@@ -15,16 +15,8 @@
         
     </div>
 
-    <!-- <div class="carousel-item">
-      <img class="d-block w-100"  src="..." alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="..." alt="Third slide">
-    </div> -->
+</div>
 
-    
-
-  </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
@@ -125,8 +117,8 @@
     
     <!-- price filter -->
     <div id="search_bar" class="input-group m-5 w-25">
-        <input type="number" class="form-control" placeholder="Minimum" aria-label="Minimum Price" aria-describedby="button-addon2">
-        <input type="number" class="form-control" placeholder="Maximum" aria-label="Maximum Price" aria-describedby="button-addon2">
+        <input type="number" class="form-control" name="minimum" value="100">
+        <input type="number" class="form-control"  name="maximum" value="10000">
         <button class="btn btn-outline-primary" type="button">Filter</button>
     </div>
 </div>

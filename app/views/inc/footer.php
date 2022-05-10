@@ -38,11 +38,11 @@
 </div>
 <div class='socialMedia'>
     <div id="social_media">
-    <i class="bi bi-facebook h4"></i>
+    <a href="https://www.facebook.com/" target="blank"><i class="bi bi-facebook h4"></i></a>
 
-    <i class="bi bi-twitter h4"></i>
+    <a href="https://www.instagram.com/" target="blank"><i class="bi bi-instagram h4"></i></i></a>
 
-    <i class="bi bi-instagram h4"></i>
+    <a href="https://www.twitter.com/" target="blank"><i class="bi bi-twitter h4"></i></a>
     </div>
 
 <p id="copyright">copyright 2022 MobiShop. All rights reserved.</p>

@@ -9,6 +9,7 @@
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" 
     crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="<?php echo URLROOT; ?>/css/admin/orders.css">
     <title>Mobishop | Admin</title>
 </head>
 <body>
@@ -26,12 +27,12 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://localhost/MobiShop/admin/orders" class="nav-link px-0 align-middle">
-                            <i class="bi-table"></i> <span class="ms-1 d-none d-sm-inline">Orders</span></a>
-                    </li>
-                    <li>
                         <a href="http://localhost/MobiShop/admin/products" class="nav-link px-0 align-middle">
                             <i class="bi-grid"></i> <span class="ms-1 d-none d-sm-inline">Products</span> </a>
+                    </li>
+                    <li>
+                        <a href="http://localhost/MobiShop/admin/orders" class="nav-link px-0 align-middle">
+                            <i class="bi-table"></i> <span class="ms-1 d-none d-sm-inline">Orders</span></a>
                     </li>
                     <li>
                         <a href="http://localhost/MobiShop/admin/customers" class="nav-link px-0 align-middle">
@@ -52,7 +53,35 @@
             </div>
         </div>
         <div class="col py-3">
-            Orders Page 🚀
+            <h3 class="mx-5 d-inline">Orders</h3>
+
+            <div class="d-block mt-5">
+                <table class="table">
+                    <thead>
+                        <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Image</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Quantity</th>
+                        <th scope="col">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                        <th scope="row">1</th>
+                        <td>Phone</td>
+                        <td>Lorem ipsum dolor sit amet.</td>
+                        <td>image</td>
+                        <td>2300</td>
+                        <td>17</td>
+                        <th><a href="#"><button type="button" class="btn btn-danger">Delete <i class="bi bi-trash3"></i></button></a>
+                        <a href="#"><button type="button" class="btn btn-primary">Modify <i class="bi bi-pencil"></i></button></a></th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
 </div>

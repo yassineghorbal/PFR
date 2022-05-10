@@ -4,7 +4,7 @@
     //URL Root
     define('URLROOT', 'http://localhost/MobiShop');
     //Site Name
-    define('SITENAME', 'MobiShop | الموقع');
+    define('SITENAME', 'MobiShop | Home');
     //App Version
     define('APPVERSION', '0.2.0');
 

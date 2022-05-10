@@ -12,8 +12,8 @@
 </head>
 <body>
 <div class="container">
-    <h3 class="text-center underlined my-5"><u>MobiShop Admin Login</u></h3>
-    <form id="login_form" class="w-25 mx-auto">
+    <h3 class="text-center underlined my-5">Mobi<span class="text-danger">Shop</span> Admin</h3>
+    <form id="login_form" class="w-25 mx-auto" action="http://localhost/MobiShop/admin">
     <div class="mb-3">
         <label for="username" class="form-label">Username</label>
         <input type="text" class="form-control" id="username" aria-describedby="emailHelp">
