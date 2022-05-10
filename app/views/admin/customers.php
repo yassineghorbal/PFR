@@ -26,12 +26,12 @@
                         </a>
                     </li>
                     <li>
-                        <a href="http://localhost/MobiShop/admin/orders" class="nav-link px-0 align-middle">
-                            <i class="bi-table"></i> <span class="ms-1 d-none d-sm-inline">Orders</span></a>
-                    </li>
-                    <li>
                         <a href="http://localhost/MobiShop/admin/products" class="nav-link px-0 align-middle">
                             <i class="bi-grid"></i> <span class="ms-1 d-none d-sm-inline">Products</span> </a>
+                    </li>
+                    <li>
+                        <a href="http://localhost/MobiShop/admin/orders" class="nav-link px-0 align-middle">
+                            <i class="bi-table"></i> <span class="ms-1 d-none d-sm-inline">Orders</span></a>
                     </li>
                     <li>
                         <a href="http://localhost/MobiShop/admin/customers" class="nav-link px-0 align-middle">
@@ -52,7 +52,37 @@
             </div>
         </div>
         <div class="col py-3">
-            Customers Page 🚀
+        <div class="col py-3">
+            <h3 class="mx-5 d-inline">Customers</h3>
+
+            <div class="d-block mt-5">
+                <table class="table">
+                    <thead>
+                        <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">First Name</th>
+                        <th scope="col">Last Name</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Quantity</th>
+                        <th scope="col">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                        <th scope="row">1</th>
+                        <td>Phone</td>
+                        <td>Lorem ipsum dolor sit amet.</td>
+                        <td>image</td>
+                        <td>2300</td>
+                        <td>17</td>
+                        <th><a href="#"><button type="button" class="btn btn-danger">Delete <i class="bi bi-trash3"></i></button></a>
+                        <a href="#"><button type="button" class="btn btn-primary">Modify <i class="bi bi-pencil"></i></button></a></th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
         </div>
     </div>
 </div>
