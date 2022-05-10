@@ -94,6 +94,19 @@
         </div>
         </div>
     </div>
+    <!-- 5 -->
+    <div class="m-1">
+        <div class="card" style="width: 14rem;">
+        <img src="<?php echo URLROOT; ?>/pics/swappie-iphone-11-pro-space-gray-back.avif" class="card-img-top" alt="...">
+        <div class="card-body mx-auto">
+            <h5 class="card-title">Phone name</h5>
+            <p class="card-text">price</p>
+        </div>
+        <div class="card-body mx-auto">
+            <a href="#" class="card-link add_to_cart"><i class="bi bi-cart"></i> View product</a>
+        </div>
+        </div>
+    </div>
     
 </div>
 

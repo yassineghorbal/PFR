@@ -20,13 +20,9 @@
                     <span class="fs-5 d-none d-sm-inline">Mobi<span class="text-primary">Shop</span></span>
                 </a>
                 <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">
-                    <li class="nav-item">
-                        <a href="http://localhost/MobiShop/admin" class="nav-link align-middle px-0">
-                            <i class="bi-house"></i> <span class="ms-1 d-none d-sm-inline">Home</span>
-                        </a>
-                    </li>
+                    
                     <li>
-                        <a href="http://localhost/MobiShop/admin/products" class="nav-link px-0 align-middle">
+                        <a href="http://localhost/MobiShop/admin" class="nav-link px-0 align-middle">
                             <i class="bi-grid"></i> <span class="ms-1 d-none d-sm-inline">Products</span> </a>
                     </li>
                     <li>

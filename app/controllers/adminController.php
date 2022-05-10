@@ -9,7 +9,7 @@
 
         public function index()
         {
-            $this->view('admin/home');
+            $this->view('admin/products');
         }
 
         public function orders()  
@@ -17,10 +17,7 @@
             $this->view('admin/orders');
         }
 
-        public function products()
-        {
-            $this->view('admin/products');
-        }
+        
 
         public function customers()
         {
