@@ -12,7 +12,7 @@
 
         <h6 class="my-2">
         Email: 
-        <small class="text-muted">example@gmail.com</small>
+        <small class="text-muted">mobishop@gmail.com</small>
     </h6>
     </div>
 
